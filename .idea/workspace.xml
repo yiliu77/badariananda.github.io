@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fcd3b8e6-3cc0-4972-99a1-38784eebe939" name="Default" comment="hope it works&#10;favicon&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="badariananda.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,7 +37,6 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="UPDATE_TYPE" value="REBASE" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="FORCE_PUSH_ALLOWED" value="true" />
@@ -504,12 +502,6 @@
       <option name="number" value="Default" />
       <updated>1453858742310</updated>
     </task>
-    <task id="LOCAL-00005" summary="hope it works&#10;">
-      <created>1453859198332</created>
-      <option name="number" value="00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1453859198332</updated>
-    </task>
     <task id="LOCAL-00006" summary="hope it works&#10;">
       <created>1453859337110</created>
       <option name="number" value="00006" />
@@ -798,7 +790,13 @@
       <option name="project" value="LOCAL" />
       <updated>1454023325824</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="hope it works&#10;favicon&#10;">
+      <created>1454023363219</created>
+      <option name="number" value="00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1454023363227</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="ToolWindowManager">
