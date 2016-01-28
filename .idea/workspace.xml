@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fcd3b8e6-3cc0-4972-99a1-38784eebe939" name="Default" comment="hope it works&#10;favicon&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="badariananda.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -503,12 +502,6 @@
       <option name="number" value="Default" />
       <updated>1453858742310</updated>
     </task>
-    <task id="LOCAL-00008" summary="hope it works&#10;">
-      <created>1453859458949</created>
-      <option name="number" value="00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1453859458949</updated>
-    </task>
     <task id="LOCAL-00009" summary="hope it works&#10;">
       <created>1453859465163</created>
       <option name="number" value="00009" />
@@ -797,7 +790,13 @@
       <option name="project" value="LOCAL" />
       <updated>1454023455566</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="hope it works&#10;favicon&#10;">
+      <created>1454023504471</created>
+      <option name="number" value="00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1454023504473</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="ToolWindowManager">
