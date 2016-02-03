@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fcd3b8e6-3cc0-4972-99a1-38784eebe939" name="Default" comment="hope it works&#10;favicon&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="badariananda.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.28651685">
-              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.4775281">
+              <caret line="10" column="117" selection-start-line="10" selection-start-column="117" selection-end-line="10" selection-end-column="117" />
               <folding />
             </state>
           </provider>
@@ -393,12 +394,6 @@
       <option name="number" value="Default" />
       <updated>1453858742310</updated>
     </task>
-    <task id="LOCAL-00011" summary="hope it works&#10;">
-      <created>1453859804171</created>
-      <option name="number" value="00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1453859804171</updated>
-    </task>
     <task id="LOCAL-00012" summary="hope it works&#10;">
       <created>1453859832583</created>
       <option name="number" value="00012" />
@@ -687,7 +682,13 @@
       <option name="project" value="LOCAL" />
       <updated>1454458681048</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="hope it works&#10;favicon&#10;">
+      <created>1454458824380</created>
+      <option name="number" value="00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1454458824380</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -696,7 +697,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.49389312" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.49389312" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289689" sideWeight="0.50610685" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -824,8 +825,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.28651685">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.4775281">
+          <caret line="10" column="117" selection-start-line="10" selection-start-column="117" selection-end-line="10" selection-end-column="117" />
           <folding />
         </state>
       </provider>
